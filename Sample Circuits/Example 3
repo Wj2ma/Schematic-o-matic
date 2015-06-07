@@ -1,0 +1,732 @@
+Part
+plusbattery
+6
+1
+525 220 30 60
+Part
+resistor
+1000
+1
+525 280 30 60
+Part
+capacitor
+1
+1
+525 470 30 60
+Part
+negbattery
+0
+3
+525 530 30 60
+Part
+switch
+3
+3
+585 475 30 60
+Part
+hbridge
+0
+0
+1115 320 120 30
+Part
+capacitor
+1
+0
+860 480 60 30
+Part
+negbattery
+0
+3
+825 545 30 60
+Part
+plusbattery
+6
+3
+920 540 30 60
+Part
+resistor
+10000
+1
+1210 195 30 60
+Part
+capacitor
+10
+1
+805 180 30 60
+Part
+negbattery
+0
+1
+805 120 30 60
+Part
+plusbattery
+6
+1
+620 80 30 60
+Part
+capacitor
+1
+0
+650 185 60 30
+Part
+negbattery
+0
+1
+705 90 30 60
+Part
+plusbattery
+6
+1
+1110 175 30 60
+Part
+capacitor
+1
+0
+1045 245 60 30
+Part
+negbattery
+0
+1
+995 80 30 60
+Part
+capacitor
+10
+1
+980 190 30 60
+Part
+negbattery
+0
+1
+1160 70 30 60
+Part
+pic24
+0
+0
+690 320 240 30
+Connections
+plusbattery0
+resistor0 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+resistor0
+plusbattery0 Side2
+capacitor0 capacitor0 capacitor0 switch0 Side3
+No. Side4
+No. 
+End
+Connections
+capacitor0
+resistor0 resistor0 resistor0 switch0 Side2
+negbattery0 Side3
+No. Side4
+No. 
+End
+Connections
+negbattery0
+capacitor0 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+switch0
+resistor0 capacitor0 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+hbridge0
+No. Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+capacitor1
+negbattery1 Side2
+plusbattery1 Side3
+No. Side4
+No. 
+End
+Connections
+negbattery1
+capacitor1 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+plusbattery1
+capacitor1 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+resistor1
+negbattery5 negbattery5 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+capacitor2
+negbattery2 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+negbattery2
+capacitor2 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+plusbattery2
+capacitor3 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+capacitor3
+plusbattery2 Side2
+negbattery3 Side3
+No. Side4
+No. 
+End
+Connections
+negbattery3
+capacitor3 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+plusbattery3
+capacitor4 capacitor4 capacitor4 capacitor5 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+capacitor4
+capacitor5 negbattery4 Side2
+plusbattery3 plusbattery3 plusbattery3 capacitor5 Side3
+No. Side4
+No. 
+End
+Connections
+negbattery4
+capacitor4 capacitor4 capacitor5 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+capacitor5
+capacitor4 negbattery4 Side2
+plusbattery3 capacitor4 Side3
+No. Side4
+No. 
+End
+Connections
+negbattery5
+resistor1 resistor1 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+pic240
+No. Side2
+No. Side3
+No. Side4
+No. 
+End
+Wire
+2
+697 347 6 61
+true
+
+End
+Wire
+2
+537 402 166 6
+true
+
+End
+Wire
+2
+537 337 6 71
+true
+resistor0 2 
+End
+Wire
+2
+537 402 6 71
+false
+capacitor0 1 
+End
+Wire
+2
+597 402 6 76
+false
+switch0 1 
+End
+Wire
+1
+897 347 6 81
+true
+
+End
+Wire
+1
+837 347 6 151
+true
+
+End
+Wire
+1
+897 422 41 6
+true
+
+End
+Wire
+1
+932 422 6 76
+true
+
+End
+Wire
+1
+837 492 26 6
+true
+capacitor1 1 
+End
+Wire
+1
+917 492 21 6
+true
+capacitor1 2 
+End
+Wire
+1
+932 492 6 51
+true
+plusbattery1 1 
+End
+Wire
+1
+837 492 6 56
+true
+negbattery1 1 
+End
+Wire
+4
+817 237 6 86
+true
+capacitor2 2 
+End
+Wire
+1
+697 277 6 46
+false
+
+End
+Wire
+1
+632 277 71 6
+false
+
+End
+Wire
+1
+632 197 6 86
+false
+
+End
+Wire
+1
+717 197 6 126
+false
+
+End
+Wire
+1
+632 197 21 6
+false
+capacitor3 1 
+End
+Wire
+1
+707 197 16 6
+false
+capacitor3 2 
+End
+Wire
+1
+632 137 6 66
+false
+plusbattery2 1 
+End
+Wire
+1
+717 147 6 56
+false
+negbattery3 1 
+End
+Wire
+2
+1122 232 6 91
+false
+plusbattery3 1 
+End
+Wire
+2
+1102 257 26 6
+false
+capacitor4 2 
+End
+Wire
+0
+1032 257 16 6
+false
+capacitor4 1 
+End
+Wire
+0
+1032 232 6 31
+false
+
+End
+Wire
+2
+992 277 136 6
+false
+
+End
+Wire
+2
+992 247 6 36
+false
+capacitor5 2 
+End
+Wire
+0
+1032 167 6 71
+false
+
+End
+Wire
+0
+992 167 46 6
+false
+
+End
+Wire
+0
+992 167 6 26
+false
+capacitor5 1 
+End
+Wire
+0
+1007 137 6 36
+false
+negbattery4 1 
+End
+Wire
+0
+1162 167 6 156
+false
+
+End
+Wire
+0
+1182 167 6 156
+false
+
+End
+Wire
+0
+1162 167 26 6
+false
+
+End
+Wire
+0
+1172 127 6 46
+false
+negbattery5 1 
+End
+Wire
+0
+1222 252 6 71
+false
+resistor1 2 
+End
+Wire
+0
+1222 172 6 26
+false
+resistor1 1 
+End
+Wire
+0
+1182 167 46 6
+false
+
+End
+Wire
+0
+1222 167 6 11
+false
+
+End
+Wire
+5
+1142 302 6 21
+false
+
+End
+Wire
+5
+837 302 311 6
+false
+
+End
+Wire
+5
+837 302 6 21
+false
+
+End
+Wire
+5
+1202 297 6 26
+false
+
+End
+Wire
+5
+857 297 351 6
+false
+
+End
+Wire
+5
+857 297 6 26
+false
+
+End
+Wire
+5
+877 282 351 6
+false
+
+End
+Wire
+5
+877 282 6 41
+false
+
+End
+Connections2
+wire0
+wire1 
+End
+Connections2
+wire1
+wire0 wire2 wire3 wire4 
+End
+Connections2
+wire2
+wire1 wire3 
+End
+Connections2
+wire3
+wire1 wire2 
+End
+Connections2
+wire4
+wire1 
+End
+Connections2
+wire5
+wire7 
+End
+Connections2
+wire6
+wire9 wire12 
+End
+Connections2
+wire7
+wire5 wire8 
+End
+Connections2
+wire8
+wire7 wire10 wire11 
+End
+Connections2
+wire9
+wire6 wire12 
+End
+Connections2
+wire10
+wire8 wire11 
+End
+Connections2
+wire11
+wire8 wire10 
+End
+Connections2
+wire12
+wire6 wire9 
+End
+Connections2
+wire13
+
+End
+Connections2
+wire14
+wire15 
+End
+Connections2
+wire15
+wire14 wire16 
+End
+Connections2
+wire16
+wire15 wire18 wire20 
+End
+Connections2
+wire17
+wire19 wire21 
+End
+Connections2
+wire18
+wire16 wire20 
+End
+Connections2
+wire19
+wire17 wire21 
+End
+Connections2
+wire20
+wire16 wire18 
+End
+Connections2
+wire21
+wire17 wire19 
+End
+Connections2
+wire22
+wire23 wire26 
+End
+Connections2
+wire23
+wire22 
+End
+Connections2
+wire24
+wire25 
+End
+Connections2
+wire25
+wire24 wire28 
+End
+Connections2
+wire26
+wire22 wire27 
+End
+Connections2
+wire27
+wire26 
+End
+Connections2
+wire28
+wire25 wire29 
+End
+Connections2
+wire29
+wire28 wire30 wire31 
+End
+Connections2
+wire30
+wire29 
+End
+Connections2
+wire31
+wire29 
+End
+Connections2
+wire32
+wire34 
+End
+Connections2
+wire33
+wire34 wire38 
+End
+Connections2
+wire34
+wire32 wire33 wire35 wire38 
+End
+Connections2
+wire35
+wire34 
+End
+Connections2
+wire36
+wire46 
+End
+Connections2
+wire37
+wire39 
+End
+Connections2
+wire38
+wire33 wire34 wire39 
+End
+Connections2
+wire39
+wire38 wire37 
+End
+Connections2
+wire40
+wire41 
+End
+Connections2
+wire41
+wire40 wire42 
+End
+Connections2
+wire42
+wire41 
+End
+Connections2
+wire43
+wire44 
+End
+Connections2
+wire44
+wire43 wire45 
+End
+Connections2
+wire45
+wire44 
+End
+Connections2
+wire46
+wire36 wire47 
+End
+Connections2
+wire47
+wire46 
+End

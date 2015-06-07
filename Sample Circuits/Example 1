@@ -1,0 +1,1216 @@
+Part
+plusbattery
+6
+0
+30 230 60 30
+Part
+andgate
+0
+0
+310 35 60 30
+Part
+orgate
+0
+0
+310 105 60 30
+Part
+nandgate
+0
+0
+310 180 60 30
+Part
+norgate
+0
+0
+310 255 60 30
+Part
+notgate
+0
+0
+310 305 60 30
+Part
+xorgate
+0
+0
+310 355 60 30
+Part
+flipflop
+0
+0
+310 440 60 30
+Part
+switch
+1
+0
+210 15 60 30
+Part
+led
+4
+0
+420 180 60 30
+Part
+resistor
+1000
+0
+480 35 60 30
+Part
+negbattery
+0
+2
+675 220 60 30
+Part
+switch
+1
+0
+210 55 60 30
+Part
+led
+2
+0
+420 105 60 30
+Part
+resistor
+1000
+0
+480 105 60 30
+Part
+switch
+1
+0
+210 85 60 30
+Part
+led
+3
+0
+420 255 60 30
+Part
+resistor
+1000
+0
+480 180 60 30
+Part
+switch
+1
+0
+210 130 60 30
+Part
+led
+1
+0
+420 35 60 30
+Part
+resistor
+1000
+0
+480 255 60 30
+Part
+switch
+1
+0
+210 160 60 30
+Part
+led
+4
+0
+420 400 60 30
+Part
+resistor
+1000
+0
+480 305 60 30
+Part
+switch
+1
+0
+210 205 60 30
+Part
+led
+2
+0
+420 355 60 30
+Part
+resistor
+1000
+0
+480 355 60 30
+Part
+switch
+1
+0
+210 235 60 30
+Part
+led
+1
+0
+420 305 60 30
+Part
+resistor
+1000
+0
+480 400 60 30
+Part
+switch
+1
+0
+210 275 60 30
+Part
+led
+3
+0
+420 475 60 30
+Part
+resistor
+1000
+0
+480 475 60 30
+Part
+switch
+1
+0
+210 305 60 30
+Part
+switch
+1
+0
+210 335 60 30
+Part
+switch
+1
+0
+210 375 60 30
+Part
+switch
+1
+0
+210 405 60 30
+Part
+switch
+1
+0
+210 475 60 30
+Connections
+plusbattery0
+switch0 switch12 switch12 switch0 switch12 switch0 switch1 switch12 switch0 switch1 switch12 switch0 switch1 switch2 switch12 switch0 switch1 switch2 switch12 switch0 switch1 switch2 switch3 switch12 switch0 switch1 switch2 switch3 switch12 switch0 switch1 switch2 switch3 switch4 switch12 switch0 switch1 switch2 switch3 switch4 switch12 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch0 switch1 switch2 switch3 switch4 switch5 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch12 switch6 switch0 switch1 switch2 switch3 switch4 switch5 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch12 switch6 switch7 switch0 switch1 switch2 switch3 switch4 switch5 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch12 switch6 switch7 switch8 switch0 switch1 switch2 switch3 switch4 switch5 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch12 switch6 switch7 switch8 switch9 switch0 switch1 switch2 switch3 switch4 switch5 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 switch12 switch6 switch7 switch8 switch9 switch10 switch0 switch1 switch2 switch3 switch4 switch5 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 switch11 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+andgate0
+switch1 Side2
+switch0 Side3
+led3 Side4
+No. 
+End
+Connections
+orgate0
+switch3 Side2
+switch2 Side3
+led1 Side4
+No. 
+End
+Connections
+nandgate0
+switch5 Side2
+switch4 Side3
+led0 Side4
+No. 
+End
+Connections
+norgate0
+switch7 Side2
+switch6 Side3
+led2 Side4
+No. 
+End
+Connections
+notgate0
+switch8 Side2
+led6 Side3
+No. Side4
+No. 
+End
+Connections
+xorgate0
+switch10 Side2
+switch9 Side3
+led5 Side4
+No. 
+End
+Connections
+flipflop0
+switch11 Side2
+led4 Side3
+led7 Side4
+switch12 
+End
+Connections
+switch0
+plusbattery0 switch12 plusbattery0 switch12 plusbattery0 switch12 switch1 plusbattery0 switch12 plusbattery0 switch12 switch1 switch1 switch2 plusbattery0 switch12 plusbattery0 switch12 switch1 switch2 switch1 switch2 switch3 plusbattery0 switch12 plusbattery0 switch12 switch1 switch2 switch3 switch1 switch2 switch3 switch4 plusbattery0 switch12 plusbattery0 switch12 switch1 switch2 switch3 switch4 switch1 switch2 switch3 switch4 switch5 plusbattery0 plusbattery0 switch12 switch1 switch2 switch3 switch4 switch5 switch1 switch2 switch3 switch4 switch5 switch12 switch6 plusbattery0 plusbattery0 switch12 switch6 switch1 switch2 switch3 switch4 switch5 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 plusbattery0 plusbattery0 switch12 switch6 switch7 switch1 switch2 switch3 switch4 switch5 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 plusbattery0 plusbattery0 switch12 switch6 switch7 switch8 switch1 switch2 switch3 switch4 switch5 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 plusbattery0 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch1 switch2 switch3 switch4 switch5 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 plusbattery0 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch10 switch1 switch2 switch3 switch4 switch5 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 switch11 Side2
+andgate0 Side3
+No. Side4
+No. 
+End
+Connections
+led0
+nandgate0 Side2
+resistor2 Side3
+No. Side4
+No. 
+End
+Connections
+resistor0
+led3 Side2
+negbattery0 resistor7 resistor1 resistor2 resistor3 resistor4 resistor5 resistor6 Side3
+No. Side4
+No. 
+End
+Connections
+negbattery0
+resistor7 resistor0 resistor1 resistor2 resistor3 resistor4 resistor5 resistor6 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+switch1
+plusbattery0 switch12 switch0 plusbattery0 switch12 switch0 plusbattery0 switch12 switch0 switch2 plusbattery0 switch12 switch0 plusbattery0 switch12 switch0 switch2 switch2 switch3 plusbattery0 switch12 switch0 plusbattery0 switch12 switch0 switch2 switch3 switch2 switch3 switch4 plusbattery0 switch12 switch0 plusbattery0 switch12 switch0 switch2 switch3 switch4 switch2 switch3 switch4 switch5 plusbattery0 switch0 plusbattery0 switch12 switch0 switch2 switch3 switch4 switch5 switch2 switch3 switch4 switch5 switch12 switch6 plusbattery0 switch0 plusbattery0 switch12 switch6 switch0 switch2 switch3 switch4 switch5 switch2 switch3 switch4 switch5 switch12 switch6 switch7 plusbattery0 switch0 plusbattery0 switch12 switch6 switch7 switch0 switch2 switch3 switch4 switch5 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 plusbattery0 switch0 plusbattery0 switch12 switch6 switch7 switch8 switch0 switch2 switch3 switch4 switch5 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 plusbattery0 switch0 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch0 switch2 switch3 switch4 switch5 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 plusbattery0 switch0 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch10 switch0 switch2 switch3 switch4 switch5 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 switch11 Side2
+andgate0 Side3
+No. Side4
+No. 
+End
+Connections
+led1
+orgate0 Side2
+resistor1 Side3
+No. Side4
+No. 
+End
+Connections
+resistor1
+led1 Side2
+negbattery0 resistor7 resistor0 resistor2 resistor3 resistor4 resistor5 resistor6 Side3
+No. Side4
+No. 
+End
+Connections
+switch2
+plusbattery0 switch12 switch0 switch1 plusbattery0 switch12 switch0 switch1 plusbattery0 switch12 switch0 switch1 switch3 plusbattery0 switch12 switch0 switch1 plusbattery0 switch12 switch0 switch1 switch3 switch3 switch4 plusbattery0 switch12 switch0 switch1 plusbattery0 switch12 switch0 switch1 switch3 switch4 switch3 switch4 switch5 plusbattery0 switch0 switch1 plusbattery0 switch12 switch0 switch1 switch3 switch4 switch5 switch3 switch4 switch5 switch12 switch6 plusbattery0 switch0 switch1 plusbattery0 switch12 switch6 switch0 switch1 switch3 switch4 switch5 switch3 switch4 switch5 switch12 switch6 switch7 plusbattery0 switch0 switch1 plusbattery0 switch12 switch6 switch7 switch0 switch1 switch3 switch4 switch5 switch3 switch4 switch5 switch12 switch6 switch7 switch8 plusbattery0 switch0 switch1 plusbattery0 switch12 switch6 switch7 switch8 switch0 switch1 switch3 switch4 switch5 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 plusbattery0 switch0 switch1 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch0 switch1 switch3 switch4 switch5 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 plusbattery0 switch0 switch1 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch10 switch0 switch1 switch3 switch4 switch5 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 switch11 Side2
+orgate0 Side3
+No. Side4
+No. 
+End
+Connections
+led2
+norgate0 Side2
+resistor3 Side3
+No. Side4
+No. 
+End
+Connections
+resistor2
+led0 Side2
+negbattery0 resistor7 resistor0 resistor1 resistor3 resistor4 resistor5 resistor6 Side3
+No. Side4
+No. 
+End
+Connections
+switch3
+plusbattery0 switch12 switch0 switch1 switch2 plusbattery0 switch12 switch0 switch1 switch2 plusbattery0 switch12 switch0 switch1 switch2 switch4 plusbattery0 switch12 switch0 switch1 switch2 plusbattery0 switch12 switch0 switch1 switch2 switch4 switch4 switch5 plusbattery0 switch0 switch1 switch2 plusbattery0 switch12 switch0 switch1 switch2 switch4 switch5 switch4 switch5 switch12 switch6 plusbattery0 switch0 switch1 switch2 plusbattery0 switch12 switch6 switch0 switch1 switch2 switch4 switch5 switch4 switch5 switch12 switch6 switch7 plusbattery0 switch0 switch1 switch2 plusbattery0 switch12 switch6 switch7 switch0 switch1 switch2 switch4 switch5 switch4 switch5 switch12 switch6 switch7 switch8 plusbattery0 switch0 switch1 switch2 plusbattery0 switch12 switch6 switch7 switch8 switch0 switch1 switch2 switch4 switch5 switch4 switch5 switch12 switch6 switch7 switch8 switch9 plusbattery0 switch0 switch1 switch2 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch0 switch1 switch2 switch4 switch5 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 plusbattery0 switch0 switch1 switch2 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch10 switch0 switch1 switch2 switch4 switch5 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 switch11 Side2
+orgate0 Side3
+No. Side4
+No. 
+End
+Connections
+led3
+andgate0 andgate0 Side2
+resistor0 Side3
+No. Side4
+No. 
+End
+Connections
+resistor3
+led2 Side2
+negbattery0 resistor0 resistor1 resistor2 resistor7 resistor4 resistor5 resistor6 Side3
+No. Side4
+No. 
+End
+Connections
+switch4
+plusbattery0 switch12 switch0 switch1 switch2 switch3 plusbattery0 switch12 switch0 switch1 switch2 switch3 plusbattery0 switch12 switch0 switch1 switch2 switch3 switch5 plusbattery0 switch0 switch1 switch2 switch3 plusbattery0 switch12 switch0 switch1 switch2 switch3 switch5 switch5 switch12 switch6 plusbattery0 switch0 switch1 switch2 switch3 plusbattery0 switch12 switch6 switch0 switch1 switch2 switch3 switch5 switch5 switch12 switch6 switch7 plusbattery0 switch0 switch1 switch2 switch3 plusbattery0 switch12 switch6 switch7 switch0 switch1 switch2 switch3 switch5 switch5 switch12 switch6 switch7 switch8 plusbattery0 switch0 switch1 switch2 switch3 plusbattery0 switch12 switch6 switch7 switch8 switch0 switch1 switch2 switch3 switch5 switch5 switch12 switch6 switch7 switch8 switch9 plusbattery0 switch0 switch1 switch2 switch3 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch0 switch1 switch2 switch3 switch5 switch5 switch12 switch6 switch7 switch8 switch9 switch10 plusbattery0 switch0 switch1 switch2 switch3 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch10 switch0 switch1 switch2 switch3 switch5 switch5 switch12 switch6 switch7 switch8 switch9 switch10 switch11 Side2
+nandgate0 Side3
+No. Side4
+No. 
+End
+Connections
+led4
+flipflop0 Side2
+resistor6 Side3
+No. Side4
+No. 
+End
+Connections
+resistor4
+led6 Side2
+negbattery0 resistor0 resistor1 resistor2 resistor7 resistor3 resistor5 resistor6 Side3
+No. Side4
+No. 
+End
+Connections
+switch5
+plusbattery0 switch12 switch0 switch1 switch2 switch3 switch4 plusbattery0 switch0 switch1 switch2 switch3 switch4 plusbattery0 switch12 switch0 switch1 switch2 switch3 switch4 switch12 switch6 plusbattery0 switch0 switch1 switch2 switch3 switch4 plusbattery0 switch12 switch6 switch0 switch1 switch2 switch3 switch4 switch12 switch6 switch7 plusbattery0 switch0 switch1 switch2 switch3 switch4 plusbattery0 switch12 switch6 switch7 switch0 switch1 switch2 switch3 switch4 switch12 switch6 switch7 switch8 plusbattery0 switch0 switch1 switch2 switch3 switch4 plusbattery0 switch12 switch6 switch7 switch8 switch0 switch1 switch2 switch3 switch4 switch12 switch6 switch7 switch8 switch9 plusbattery0 switch0 switch1 switch2 switch3 switch4 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch0 switch1 switch2 switch3 switch4 switch12 switch6 switch7 switch8 switch9 switch10 plusbattery0 switch0 switch1 switch2 switch3 switch4 plusbattery0 switch12 switch6 switch7 switch8 switch9 switch10 switch0 switch1 switch2 switch3 switch4 switch12 switch6 switch7 switch8 switch9 switch10 switch11 Side2
+nandgate0 Side3
+No. Side4
+No. 
+End
+Connections
+led5
+xorgate0 Side2
+resistor5 Side3
+No. Side4
+No. 
+End
+Connections
+resistor5
+led5 Side2
+negbattery0 resistor0 resistor1 resistor2 resistor7 resistor3 resistor4 resistor6 Side3
+No. Side4
+No. 
+End
+Connections
+switch6
+plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch7 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch7 switch7 switch8 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch7 switch8 switch7 switch8 switch9 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch7 switch8 switch9 switch7 switch8 switch9 switch10 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch7 switch8 switch9 switch10 switch7 switch8 switch9 switch10 switch11 Side2
+norgate0 Side3
+No. Side4
+No. 
+End
+Connections
+led6
+notgate0 Side2
+resistor4 Side3
+No. Side4
+No. 
+End
+Connections
+resistor6
+led4 Side2
+negbattery0 resistor0 resistor1 resistor2 resistor7 resistor3 resistor4 resistor5 Side3
+No. Side4
+No. 
+End
+Connections
+switch7
+plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch8 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch8 switch8 switch9 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch8 switch9 switch8 switch9 switch10 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch8 switch9 switch10 switch8 switch9 switch10 switch11 Side2
+norgate0 Side3
+No. Side4
+No. 
+End
+Connections
+led7
+flipflop0 Side2
+resistor7 Side3
+No. Side4
+No. 
+End
+Connections
+resistor7
+led7 Side2
+negbattery0 resistor0 resistor1 resistor2 resistor3 resistor4 resistor5 resistor6 Side3
+No. Side4
+No. 
+End
+Connections
+switch8
+plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch9 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch9 switch9 switch10 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch9 switch10 switch9 switch10 switch11 Side2
+notgate0 Side3
+No. Side4
+No. 
+End
+Connections
+switch9
+plusbattery0 switch0 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch10 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch10 switch10 switch11 Side2
+xorgate0 Side3
+No. Side4
+No. 
+End
+Connections
+switch10
+plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch11 Side2
+xorgate0 Side3
+No. Side4
+No. 
+End
+Connections
+switch11
+plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch12 switch6 switch7 switch8 switch9 switch10 Side2
+flipflop0 Side3
+No. Side4
+No. 
+End
+Connections
+switch12
+plusbattery0 switch0 plusbattery0 switch0 plusbattery0 plusbattery0 switch0 switch0 switch1 plusbattery0 plusbattery0 switch0 switch1 switch0 switch1 switch2 plusbattery0 plusbattery0 switch0 switch1 switch2 switch0 switch1 switch2 switch3 plusbattery0 plusbattery0 switch0 switch1 switch2 switch3 switch0 switch1 switch2 switch3 switch4 plusbattery0 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch0 switch1 switch2 switch3 switch4 switch5 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch6 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch6 switch6 switch7 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch6 switch7 switch6 switch7 switch8 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch6 switch7 switch8 switch6 switch7 switch8 switch9 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch6 switch7 switch8 switch9 switch6 switch7 switch8 switch9 switch10 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 plusbattery0 switch0 switch1 switch2 switch3 switch4 switch5 switch6 switch7 switch8 switch9 switch10 switch6 switch7 switch8 switch9 switch10 switch11 Side2
+flipflop0 Side3
+No. Side4
+No. 
+End
+Wire
+2
+87 242 46 6
+false
+plusbattery0 1 
+End
+Wire
+2
+127 27 6 221
+false
+
+End
+Wire
+2
+127 242 6 251
+false
+
+End
+Wire
+2
+127 487 86 6
+false
+switch12 1 
+End
+Wire
+2
+127 27 86 6
+false
+switch0 1 
+End
+Wire
+4
+267 27 26 6
+false
+switch0 2 
+End
+Wire
+4
+287 27 6 21
+false
+
+End
+Wire
+4
+287 42 26 6
+false
+andgate0 2 
+End
+Wire
+4
+267 67 26 6
+false
+switch1 2 
+End
+Wire
+4
+287 52 6 21
+false
+
+End
+Wire
+4
+287 52 26 6
+false
+andgate0 1 
+End
+Wire
+0
+637 232 41 6
+false
+negbattery0 1 
+End
+Wire
+5
+267 97 26 6
+false
+switch2 2 
+End
+Wire
+5
+287 97 6 21
+false
+
+End
+Wire
+5
+287 112 26 6
+false
+orgate0 2 
+End
+Wire
+5
+267 142 26 6
+false
+switch3 2 
+End
+Wire
+5
+287 122 6 26
+false
+
+End
+Wire
+5
+287 122 26 6
+false
+orgate0 1 
+End
+Wire
+3
+267 172 26 6
+false
+switch4 2 
+End
+Wire
+3
+287 172 6 21
+false
+
+End
+Wire
+3
+287 187 26 6
+false
+nandgate0 2 
+End
+Wire
+3
+267 217 26 6
+false
+switch5 2 
+End
+Wire
+3
+287 197 6 26
+false
+
+End
+Wire
+3
+287 197 26 6
+false
+nandgate0 1 
+End
+Wire
+6
+267 247 26 6
+false
+switch6 2 
+End
+Wire
+6
+287 247 6 21
+false
+
+End
+Wire
+6
+287 262 26 6
+false
+norgate0 2 
+End
+Wire
+6
+267 287 26 6
+false
+switch7 2 
+End
+Wire
+6
+287 272 6 21
+false
+
+End
+Wire
+6
+287 272 26 6
+false
+norgate0 1 
+End
+Wire
+5
+267 317 46 6
+false
+switch8 2 notgate0 1 
+End
+Wire
+4
+267 347 26 6
+false
+switch9 2 
+End
+Wire
+4
+287 347 6 21
+false
+
+End
+Wire
+4
+287 362 26 6
+false
+xorgate0 2 
+End
+Wire
+4
+267 387 26 6
+false
+switch10 2 
+End
+Wire
+4
+287 372 6 21
+false
+
+End
+Wire
+4
+287 372 26 6
+false
+xorgate0 1 
+End
+Wire
+1
+267 417 26 6
+false
+switch11 2 
+End
+Wire
+1
+287 417 6 31
+false
+
+End
+Wire
+1
+287 442 26 6
+false
+flipflop0 1 
+End
+Wire
+1
+267 487 26 6
+false
+switch12 2 
+End
+Wire
+1
+287 462 6 31
+false
+
+End
+Wire
+1
+287 462 26 6
+false
+flipflop0 4 
+End
+Wire
+4
+367 47 56 6
+false
+andgate0 3 led3 1 
+End
+Wire
+5
+367 117 56 6
+false
+orgate0 3 led1 1 
+End
+Wire
+5
+367 317 56 6
+false
+notgate0 2 led6 1 
+End
+Wire
+3
+367 192 56 6
+false
+nandgate0 3 led0 1 
+End
+Wire
+6
+367 267 56 6
+false
+norgate0 3 led2 1 
+End
+Wire
+4
+367 367 56 6
+false
+xorgate0 3 led5 1 
+End
+Wire
+1
+367 442 26 6
+false
+flipflop0 2 
+End
+Wire
+1
+387 412 6 36
+false
+
+End
+Wire
+1
+387 412 36 6
+false
+led4 1 
+End
+Wire
+1
+367 462 26 6
+false
+flipflop0 3 
+End
+Wire
+1
+387 462 6 31
+false
+
+End
+Wire
+1
+387 487 36 6
+false
+led7 1 
+End
+Wire
+0
+637 47 6 191
+false
+
+End
+Wire
+0
+637 232 6 261
+false
+
+End
+Wire
+0
+537 487 106 6
+false
+resistor7 2 
+End
+Wire
+0
+537 47 106 6
+false
+resistor0 2 
+End
+Wire
+0
+537 117 106 6
+false
+resistor1 2 
+End
+Wire
+0
+537 192 106 6
+false
+resistor2 2 
+End
+Wire
+0
+537 267 106 6
+false
+resistor3 2 
+End
+Wire
+0
+537 317 106 6
+false
+resistor4 2 
+End
+Wire
+0
+537 367 106 6
+false
+resistor5 2 
+End
+Wire
+0
+537 412 106 6
+false
+resistor6 2 
+End
+Wire
+2
+127 67 86 6
+false
+switch1 1 
+End
+Wire
+2
+127 97 86 6
+false
+switch2 1 
+End
+Wire
+2
+127 142 86 6
+false
+switch3 1 
+End
+Wire
+2
+127 172 86 6
+false
+switch4 1 
+End
+Wire
+2
+127 217 86 6
+false
+switch5 1 
+End
+Wire
+2
+127 247 86 6
+false
+switch6 1 
+End
+Wire
+2
+127 287 86 6
+false
+switch7 1 
+End
+Wire
+2
+127 317 86 6
+false
+switch8 1 
+End
+Wire
+2
+127 347 86 6
+false
+switch9 1 
+End
+Wire
+2
+127 387 86 6
+false
+switch10 1 
+End
+Wire
+2
+127 417 86 6
+false
+switch11 1 
+End
+Connections2
+wire0
+wire1 wire2 
+End
+Connections2
+wire1
+wire0 wire2 wire4 wire65 wire66 wire67 wire68 wire69 
+End
+Connections2
+wire2
+wire0 wire1 wire3 wire70 wire71 wire72 wire73 wire74 wire75 
+End
+Connections2
+wire3
+wire2 
+End
+Connections2
+wire4
+wire1 
+End
+Connections2
+wire5
+wire6 
+End
+Connections2
+wire6
+wire5 wire7 
+End
+Connections2
+wire7
+wire6 
+End
+Connections2
+wire8
+wire9 
+End
+Connections2
+wire9
+wire8 wire10 
+End
+Connections2
+wire10
+wire9 
+End
+Connections2
+wire11
+wire55 wire56 
+End
+Connections2
+wire12
+wire13 
+End
+Connections2
+wire13
+wire12 wire14 
+End
+Connections2
+wire14
+wire13 
+End
+Connections2
+wire15
+wire16 
+End
+Connections2
+wire16
+wire15 wire17 
+End
+Connections2
+wire17
+wire16 
+End
+Connections2
+wire18
+wire19 
+End
+Connections2
+wire19
+wire18 wire20 
+End
+Connections2
+wire20
+wire19 
+End
+Connections2
+wire21
+wire22 
+End
+Connections2
+wire22
+wire21 wire23 
+End
+Connections2
+wire23
+wire22 
+End
+Connections2
+wire24
+wire25 
+End
+Connections2
+wire25
+wire24 wire26 
+End
+Connections2
+wire26
+wire25 
+End
+Connections2
+wire27
+wire28 
+End
+Connections2
+wire28
+wire27 wire29 
+End
+Connections2
+wire29
+wire28 
+End
+Connections2
+wire30
+
+End
+Connections2
+wire31
+wire32 
+End
+Connections2
+wire32
+wire31 wire33 
+End
+Connections2
+wire33
+wire32 
+End
+Connections2
+wire34
+wire35 
+End
+Connections2
+wire35
+wire34 wire36 
+End
+Connections2
+wire36
+wire35 
+End
+Connections2
+wire37
+wire38 
+End
+Connections2
+wire38
+wire37 wire39 
+End
+Connections2
+wire39
+wire38 
+End
+Connections2
+wire40
+wire41 
+End
+Connections2
+wire41
+wire40 wire42 
+End
+Connections2
+wire42
+wire41 
+End
+Connections2
+wire43
+
+End
+Connections2
+wire44
+
+End
+Connections2
+wire45
+
+End
+Connections2
+wire46
+
+End
+Connections2
+wire47
+
+End
+Connections2
+wire48
+
+End
+Connections2
+wire49
+wire50 
+End
+Connections2
+wire50
+wire49 wire51 
+End
+Connections2
+wire51
+wire50 
+End
+Connections2
+wire52
+wire53 
+End
+Connections2
+wire53
+wire52 wire54 
+End
+Connections2
+wire54
+wire53 
+End
+Connections2
+wire55
+wire11 wire56 wire58 wire59 wire60 
+End
+Connections2
+wire56
+wire11 wire55 wire57 wire61 wire62 wire63 wire64 
+End
+Connections2
+wire57
+wire56 
+End
+Connections2
+wire58
+wire55 
+End
+Connections2
+wire59
+wire55 
+End
+Connections2
+wire60
+wire55 
+End
+Connections2
+wire61
+wire56 
+End
+Connections2
+wire62
+wire56 
+End
+Connections2
+wire63
+wire56 
+End
+Connections2
+wire64
+wire56 
+End
+Connections2
+wire65
+wire1 
+End
+Connections2
+wire66
+wire1 
+End
+Connections2
+wire67
+wire1 
+End
+Connections2
+wire68
+wire1 
+End
+Connections2
+wire69
+wire1 
+End
+Connections2
+wire70
+wire2 
+End
+Connections2
+wire71
+wire2 
+End
+Connections2
+wire72
+wire2 
+End
+Connections2
+wire73
+wire2 
+End
+Connections2
+wire74
+wire2 
+End
+Connections2
+wire75
+wire2 
+End
