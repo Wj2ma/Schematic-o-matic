@@ -1,0 +1,1682 @@
+Part
+switch
+2
+0
+20 95 60 30
+Part
+flipflop
+0
+0
+160 50 60 30
+Part
+andgate
+0
+0
+590 20 60 30
+Part
+orgate
+0
+0
+775 50 60 30
+Part
+notgate
+0
+3
+80 380 30 60
+Part
+plusbattery
+6
+3
+655 415 30 60
+Part
+led
+4
+0
+905 145 60 30
+Part
+resistor
+470
+1
+965 400 30 60
+Part
+negbattery
+0
+3
+965 460 30 60
+Part
+switch
+2
+0
+20 10 60 30
+Part
+flipflop
+0
+0
+160 130 60 30
+Part
+andgate
+0
+0
+590 50 60 30
+Part
+orgate
+0
+0
+775 140 60 30
+Part
+notgate
+0
+3
+255 385 30 60
+Part
+led
+2
+0
+905 55 60 30
+Part
+flipflop
+0
+0
+280 50 60 30
+Part
+andgate
+0
+0
+590 80 60 30
+Part
+orgate
+0
+0
+845 55 60 30
+Part
+notgate
+0
+2
+415 240 60 30
+Part
+switch
+1
+3
+655 355 30 60
+Part
+flipflop
+0
+0
+280 130 60 30
+Part
+andgate
+0
+0
+590 110 60 30
+Part
+orgate
+0
+0
+845 145 60 30
+Part
+switch
+2
+2
+355 460 60 30
+Part
+flipflop
+0
+0
+400 50 60 30
+Part
+andgate
+0
+0
+590 140 60 30
+Part
+switch
+2
+2
+355 490 60 30
+Part
+flipflop
+0
+0
+400 130 60 30
+Part
+andgate
+0
+0
+590 170 60 30
+Part
+andgate
+0
+0
+690 25 60 30
+Part
+andgate
+0
+0
+690 55 60 30
+Part
+andgate
+0
+0
+690 85 60 30
+Part
+andgate
+0
+0
+690 115 60 30
+Part
+andgate
+0
+0
+690 145 60 30
+Part
+andgate
+0
+0
+690 175 60 30
+Part
+andgate
+0
+3
+110 180 30 60
+Part
+andgate
+0
+3
+230 175 30 60
+Part
+andgate
+0
+3
+355 175 30 60
+Part
+andgate
+0
+3
+350 300 30 60
+Part
+andgate
+0
+3
+225 300 30 60
+Part
+andgate
+0
+3
+105 300 30 60
+Connections
+switch0
+flipflop5 flipflop5 flipflop5 flipflop5 flipflop3 flipflop5 flipflop3 flipflop5 flipflop3 flipflop5 flipflop3 flipflop1 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+flipflop0
+switch1 flipflop4 flipflop2 Side2
+andgate0 Side3
+No. Side4
+andgate12 andgate12 flipflop1 
+End
+Connections
+andgate0
+andgate12 andgate17 andgate12 andgate17 andgate12 andgate17 andgate3 Side2
+flipflop0 Side3
+andgate6 Side4
+No. 
+End
+Connections
+orgate0
+andgate7 Side2
+andgate6 Side3
+orgate2 Side4
+No. 
+End
+Connections
+notgate0
+switch4 andgate16 andgate15 switch4 Side2
+andgate17 Side3
+No. Side4
+No. 
+End
+Connections
+plusbattery0
+switch2 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+led0
+orgate3 Side2
+led1 resistor0 Side3
+No. Side4
+No. 
+End
+Connections
+resistor0
+led1 led0 Side2
+negbattery0 Side3
+No. Side4
+No. 
+End
+Connections
+negbattery0
+resistor0 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+switch1
+flipflop4 flipflop4 flipflop4 flipflop4 flipflop2 flipflop4 flipflop2 flipflop4 flipflop2 flipflop0 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+flipflop1
+switch0 flipflop5 flipflop3 switch0 flipflop5 flipflop3 Side2
+andgate3 Side3
+No. Side4
+andgate12 flipflop0 andgate12 flipflop0 
+End
+Connections
+andgate1
+andgate13 andgate16 andgate13 andgate16 andgate13 andgate16 andgate4 Side2
+flipflop2 Side3
+andgate7 Side4
+No. 
+End
+Connections
+orgate1
+andgate10 Side2
+andgate9 Side3
+orgate3 Side4
+No. 
+End
+Connections
+notgate1
+switch3 andgate17 andgate15 switch3 Side2
+andgate16 Side3
+No. Side4
+No. 
+End
+Connections
+led1
+orgate2 Side2
+led0 resistor0 Side3
+No. Side4
+No. 
+End
+Connections
+flipflop2
+switch1 flipflop4 switch1 switch1 flipflop0 Side2
+andgate1 Side3
+No. Side4
+andgate13 andgate13 flipflop3 
+End
+Connections
+andgate2
+andgate14 andgate15 andgate14 andgate15 andgate14 andgate15 andgate5 Side2
+flipflop4 Side3
+andgate8 Side4
+No. 
+End
+Connections
+orgate2
+andgate8 Side2
+orgate0 Side3
+led1 Side4
+No. 
+End
+Connections
+notgate2
+switch2 switch2 andgate6 switch2 andgate7 switch2 andgate8 switch2 switch2 andgate10 switch2 andgate11 andgate9 Side2
+andgate12 andgate13 andgate14 Side3
+No. Side4
+No. 
+End
+Connections
+switch2
+plusbattery0 Side2
+notgate2 notgate2 andgate6 notgate2 andgate6 andgate7 notgate2 andgate6 andgate7 andgate8 notgate2 andgate6 andgate7 andgate8 notgate2 andgate6 andgate7 andgate8 andgate10 notgate2 andgate6 andgate7 andgate8 andgate10 andgate11 andgate9 Side3
+No. Side4
+No. 
+End
+Connections
+flipflop3
+switch0 flipflop1 Side2
+andgate4 Side3
+No. Side4
+andgate13 flipflop2 
+End
+Connections
+andgate3
+andgate12 andgate17 andgate0 Side2
+flipflop1 Side3
+andgate9 Side4
+No. 
+End
+Connections
+orgate3
+andgate11 Side2
+orgate1 Side3
+led0 Side4
+No. 
+End
+Connections
+switch3
+andgate17 notgate1 andgate15 andgate17 notgate1 andgate15 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+flipflop4
+switch1 flipflop2 switch1 switch1 flipflop0 Side2
+andgate2 Side3
+No. Side4
+andgate14 andgate14 flipflop5 
+End
+Connections
+andgate4
+andgate13 andgate16 andgate1 Side2
+flipflop3 Side3
+andgate10 Side4
+No. 
+End
+Connections
+switch4
+notgate0 andgate16 andgate15 notgate0 andgate16 andgate15 Side2
+No. Side3
+No. Side4
+No. 
+End
+Connections
+flipflop5
+flipflop3 switch0 flipflop1 Side2
+andgate5 Side3
+No. Side4
+andgate14 flipflop4 
+End
+Connections
+andgate5
+andgate14 andgate15 andgate2 Side2
+flipflop5 Side3
+andgate11 Side4
+No. 
+End
+Connections
+andgate6
+switch2 notgate2 switch2 andgate7 switch2 andgate8 switch2 switch2 andgate10 switch2 andgate11 andgate9 Side2
+andgate0 Side3
+orgate0 Side4
+No. 
+End
+Connections
+andgate7
+switch2 notgate2 andgate6 switch2 andgate8 switch2 switch2 andgate10 switch2 andgate11 andgate9 Side2
+andgate1 Side3
+orgate0 Side4
+No. 
+End
+Connections
+andgate8
+switch2 notgate2 andgate6 andgate7 switch2 switch2 andgate10 switch2 andgate11 andgate9 Side2
+andgate2 Side3
+orgate2 Side4
+No. 
+End
+Connections
+andgate9
+switch2 notgate2 andgate6 andgate7 andgate8 switch2 andgate10 switch2 andgate11 switch2 notgate2 andgate6 andgate7 andgate8 andgate10 andgate11 Side2
+andgate3 andgate3 Side3
+orgate1 Side4
+No. 
+End
+Connections
+andgate10
+switch2 notgate2 andgate6 andgate7 andgate8 switch2 andgate11 andgate9 Side2
+andgate4 Side3
+orgate1 Side4
+No. 
+End
+Connections
+andgate11
+switch2 notgate2 andgate6 andgate7 andgate8 andgate10 andgate9 Side2
+andgate5 Side3
+orgate3 Side4
+No. 
+End
+Connections
+andgate12
+notgate2 andgate13 andgate14 Side2
+andgate17 andgate0 andgate0 andgate0 andgate3 Side3
+flipflop0 flipflop0 flipflop1 Side4
+No. 
+End
+Connections
+andgate13
+notgate2 andgate12 andgate14 Side2
+andgate16 andgate1 andgate1 andgate1 andgate4 Side3
+flipflop2 flipflop2 flipflop3 Side4
+No. 
+End
+Connections
+andgate14
+notgate2 andgate12 andgate13 Side2
+andgate15 andgate2 andgate2 andgate2 andgate5 Side3
+flipflop4 flipflop4 flipflop5 Side4
+No. 
+End
+Connections
+andgate15
+switch3 andgate17 notgate1 switch3 Side2
+switch4 notgate0 andgate16 switch4 Side3
+andgate14 andgate2 andgate2 andgate2 andgate5 Side4
+No. 
+End
+Connections
+andgate16
+notgate1 Side2
+switch4 notgate0 andgate15 switch4 Side3
+andgate13 andgate1 andgate1 andgate1 andgate4 Side4
+No. 
+End
+Connections
+andgate17
+switch3 notgate1 andgate15 switch3 Side2
+notgate0 Side3
+andgate12 andgate0 andgate0 andgate0 andgate3 Side4
+No. 
+End
+Wire
+2
+77 22 306 6
+false
+switch1 1 
+End
+Wire
+2
+377 22 6 36
+false
+
+End
+Wire
+2
+377 52 26 6
+false
+flipflop4 1 
+End
+Wire
+2
+267 22 6 36
+false
+
+End
+Wire
+2
+267 52 16 6
+false
+flipflop2 1 
+End
+Wire
+2
+147 22 6 36
+false
+
+End
+Wire
+2
+147 52 16 6
+false
+flipflop0 1 
+End
+Wire
+2
+77 107 311 6
+false
+switch0 1 
+End
+Wire
+2
+382 107 6 31
+false
+
+End
+Wire
+2
+382 132 21 6
+false
+flipflop5 1 
+End
+Wire
+2
+267 107 6 31
+false
+
+End
+Wire
+2
+267 132 16 6
+false
+flipflop3 1 
+End
+Wire
+2
+147 107 6 31
+false
+
+End
+Wire
+2
+147 132 16 6
+false
+flipflop1 1 
+End
+Wire
+4
+122 72 41 6
+false
+flipflop0 4 
+End
+Wire
+4
+122 72 6 111
+false
+andgate12 3 
+End
+Wire
+4
+122 152 41 6
+false
+flipflop1 4 
+End
+Wire
+1
+242 72 41 6
+false
+flipflop2 4 
+End
+Wire
+1
+242 72 6 106
+false
+andgate13 3 
+End
+Wire
+1
+242 152 41 6
+false
+flipflop3 4 
+End
+Wire
+6
+367 72 36 6
+false
+flipflop4 4 
+End
+Wire
+6
+367 72 6 106
+false
+andgate14 3 
+End
+Wire
+6
+367 152 36 6
+false
+flipflop5 4 
+End
+Wire
+5
+117 237 6 66
+false
+andgate12 2 andgate17 3 
+End
+Wire
+5
+237 232 6 71
+false
+andgate13 2 andgate16 3 
+End
+Wire
+5
+362 232 6 71
+false
+andgate14 2 andgate15 3 
+End
+Wire
+5
+112 357 6 16
+false
+andgate17 2 
+End
+Wire
+5
+92 367 26 6
+false
+
+End
+Wire
+5
+92 367 6 16
+false
+notgate0 2 
+End
+Wire
+5
+127 252 291 6
+false
+notgate2 2 
+End
+Wire
+5
+127 237 6 21
+false
+andgate12 1 
+End
+Wire
+5
+247 232 6 26
+false
+andgate13 1 
+End
+Wire
+5
+372 232 6 26
+false
+andgate14 1 
+End
+Wire
+5
+92 502 266 6
+false
+switch4 1 
+End
+Wire
+5
+92 437 6 71
+false
+notgate0 1 
+End
+Wire
+5
+122 472 236 6
+false
+switch3 1 
+End
+Wire
+5
+122 357 6 121
+false
+andgate17 1 
+End
+Wire
+5
+242 357 6 16
+false
+andgate16 1 
+End
+Wire
+5
+242 367 31 6
+false
+
+End
+Wire
+5
+267 367 6 21
+false
+notgate1 2 
+End
+Wire
+5
+267 442 6 36
+false
+notgate1 1 
+End
+Wire
+5
+232 357 6 151
+false
+andgate16 2 
+End
+Wire
+5
+357 357 6 31
+false
+andgate15 2 
+End
+Wire
+5
+302 382 61 6
+false
+
+End
+Wire
+5
+302 382 6 126
+false
+
+End
+Wire
+5
+367 357 6 51
+false
+andgate15 1 
+End
+Wire
+5
+337 402 36 6
+false
+
+End
+Wire
+5
+337 402 6 76
+false
+
+End
+Wire
+2
+667 42 6 316
+false
+switch2 2 
+End
+Wire
+2
+472 252 201 6
+false
+notgate2 1 
+End
+Wire
+4
+217 52 31 6
+false
+flipflop0 2 
+End
+Wire
+4
+242 7 6 51
+false
+
+End
+Wire
+4
+242 7 301 6
+false
+
+End
+Wire
+4
+537 7 6 26
+false
+
+End
+Wire
+4
+537 27 56 6
+false
+andgate0 2 
+End
+Wire
+1
+337 52 21 6
+false
+flipflop2 2 
+End
+Wire
+1
+352 27 6 31
+false
+
+End
+Wire
+1
+352 27 171 6
+false
+
+End
+Wire
+1
+517 27 6 36
+false
+
+End
+Wire
+1
+517 57 76 6
+false
+andgate1 2 
+End
+Wire
+6
+457 52 51 6
+false
+flipflop4 2 
+End
+Wire
+6
+502 52 6 41
+false
+
+End
+Wire
+6
+502 87 91 6
+false
+andgate2 2 
+End
+Wire
+4
+217 132 21 6
+false
+flipflop1 2 
+End
+Wire
+4
+232 82 6 56
+false
+
+End
+Wire
+4
+232 82 266 6
+false
+
+End
+Wire
+4
+492 82 6 41
+false
+
+End
+Wire
+4
+492 117 101 6
+false
+andgate3 2 
+End
+Wire
+1
+337 132 16 6
+false
+flipflop3 2 
+End
+Wire
+1
+347 87 6 51
+false
+
+End
+Wire
+1
+347 87 141 6
+false
+
+End
+Wire
+1
+482 87 6 66
+false
+
+End
+Wire
+1
+482 147 111 6
+false
+andgate4 2 
+End
+Wire
+6
+457 132 21 6
+false
+flipflop5 2 
+End
+Wire
+6
+472 132 6 51
+false
+
+End
+Wire
+6
+472 177 121 6
+false
+andgate5 2 
+End
+Wire
+4
+647 32 46 6
+false
+andgate0 3 andgate6 2 
+End
+Wire
+4
+647 122 46 6
+false
+andgate3 3 andgate9 2 
+End
+Wire
+1
+647 152 46 6
+false
+andgate4 3 andgate10 2 
+End
+Wire
+1
+647 62 46 6
+false
+andgate1 3 andgate7 2 
+End
+Wire
+6
+647 92 46 6
+false
+andgate2 3 andgate8 2 
+End
+Wire
+6
+647 182 46 6
+false
+andgate5 3 andgate11 2 
+End
+Wire
+2
+667 42 26 6
+false
+andgate6 1 
+End
+Wire
+2
+667 72 26 6
+false
+andgate7 1 
+End
+Wire
+2
+667 102 26 6
+false
+andgate8 1 
+End
+Wire
+2
+667 132 26 6
+false
+andgate9 1 
+End
+Wire
+2
+667 162 26 6
+false
+andgate10 1 
+End
+Wire
+2
+667 192 26 6
+false
+andgate11 1 
+End
+Wire
+5
+117 272 416 6
+false
+
+End
+Wire
+5
+527 37 6 241
+false
+
+End
+Wire
+5
+527 37 66 6
+false
+andgate0 1 
+End
+Wire
+5
+237 277 316 6
+false
+
+End
+Wire
+5
+547 67 6 216
+false
+
+End
+Wire
+5
+547 67 46 6
+false
+andgate1 1 
+End
+Wire
+5
+527 127 66 6
+false
+andgate3 1 
+End
+Wire
+5
+547 157 46 6
+false
+andgate4 1 
+End
+Wire
+5
+362 287 206 6
+false
+
+End
+Wire
+5
+562 97 6 196
+false
+
+End
+Wire
+5
+562 97 31 6
+false
+andgate2 1 
+End
+Wire
+5
+562 187 31 6
+false
+andgate5 1 
+End
+Wire
+4
+747 37 16 6
+false
+andgate6 3 
+End
+Wire
+4
+757 37 6 26
+false
+
+End
+Wire
+4
+757 57 21 6
+false
+orgate0 2 
+End
+Wire
+4
+747 127 16 6
+false
+andgate9 3 
+End
+Wire
+4
+757 127 6 26
+false
+
+End
+Wire
+4
+757 147 21 6
+false
+orgate1 2 
+End
+Wire
+1
+747 67 31 6
+false
+andgate7 3 orgate0 1 
+End
+Wire
+1
+747 157 31 6
+false
+andgate10 3 orgate1 1 
+End
+Wire
+6
+747 187 91 6
+false
+andgate11 3 
+End
+Wire
+6
+832 162 6 31
+false
+
+End
+Wire
+6
+832 162 16 6
+false
+orgate3 1 
+End
+Wire
+6
+747 97 96 6
+false
+andgate8 3 
+End
+Wire
+6
+837 72 6 31
+false
+
+End
+Wire
+6
+837 72 11 6
+false
+orgate2 1 
+End
+Wire
+3
+832 62 16 6
+false
+orgate0 3 orgate2 2 
+End
+Wire
+3
+832 152 16 6
+false
+orgate1 3 orgate3 2 
+End
+Wire
+0
+962 67 21 6
+false
+led1 2 
+End
+Wire
+0
+977 67 6 336
+false
+resistor0 1 
+End
+Wire
+0
+962 157 21 6
+false
+led0 2 
+End
+Connections2
+wire0
+wire1 wire3 wire5 
+End
+Connections2
+wire1
+wire0 wire2 
+End
+Connections2
+wire2
+wire1 
+End
+Connections2
+wire3
+wire0 wire4 
+End
+Connections2
+wire4
+wire3 
+End
+Connections2
+wire5
+wire0 wire6 
+End
+Connections2
+wire6
+wire5 
+End
+Connections2
+wire7
+wire8 wire10 wire12 
+End
+Connections2
+wire8
+wire7 wire9 
+End
+Connections2
+wire9
+wire8 
+End
+Connections2
+wire10
+wire7 wire11 
+End
+Connections2
+wire11
+wire10 
+End
+Connections2
+wire12
+wire7 wire13 
+End
+Connections2
+wire13
+wire12 
+End
+Connections2
+wire14
+wire15 
+End
+Connections2
+wire15
+wire14 wire16 
+End
+Connections2
+wire16
+wire15 
+End
+Connections2
+wire17
+wire18 
+End
+Connections2
+wire18
+wire17 wire19 
+End
+Connections2
+wire19
+wire18 
+End
+Connections2
+wire20
+wire21 
+End
+Connections2
+wire21
+wire20 wire22 
+End
+Connections2
+wire22
+wire21 
+End
+Connections2
+wire23
+wire88 
+End
+Connections2
+wire24
+wire91 
+End
+Connections2
+wire25
+wire96 
+End
+Connections2
+wire26
+wire27 
+End
+Connections2
+wire27
+wire26 wire28 
+End
+Connections2
+wire28
+wire27 
+End
+Connections2
+wire29
+wire30 wire31 wire32 
+End
+Connections2
+wire30
+wire29 
+End
+Connections2
+wire31
+wire29 
+End
+Connections2
+wire32
+wire29 
+End
+Connections2
+wire33
+wire34 wire41 wire44 
+End
+Connections2
+wire34
+wire33 
+End
+Connections2
+wire35
+wire36 wire40 wire47 
+End
+Connections2
+wire36
+wire35 
+End
+Connections2
+wire37
+wire38 
+End
+Connections2
+wire38
+wire37 wire39 
+End
+Connections2
+wire39
+wire38 
+End
+Connections2
+wire40
+wire35 
+End
+Connections2
+wire41
+wire33 
+End
+Connections2
+wire42
+wire43 
+End
+Connections2
+wire43
+wire42 wire44 
+End
+Connections2
+wire44
+wire43 wire33 
+End
+Connections2
+wire45
+wire46 
+End
+Connections2
+wire46
+wire45 wire47 
+End
+Connections2
+wire47
+wire46 wire35 
+End
+Connections2
+wire48
+wire49 wire82 wire83 wire84 wire85 wire86 wire87 
+End
+Connections2
+wire49
+wire48 
+End
+Connections2
+wire50
+wire51 
+End
+Connections2
+wire51
+wire50 wire52 
+End
+Connections2
+wire52
+wire51 wire53 
+End
+Connections2
+wire53
+wire52 wire54 
+End
+Connections2
+wire54
+wire53 
+End
+Connections2
+wire55
+wire56 
+End
+Connections2
+wire56
+wire55 wire57 
+End
+Connections2
+wire57
+wire56 wire58 
+End
+Connections2
+wire58
+wire57 wire59 
+End
+Connections2
+wire59
+wire58 
+End
+Connections2
+wire60
+wire61 
+End
+Connections2
+wire61
+wire60 wire62 
+End
+Connections2
+wire62
+wire61 
+End
+Connections2
+wire63
+wire64 
+End
+Connections2
+wire64
+wire63 wire65 
+End
+Connections2
+wire65
+wire64 wire66 
+End
+Connections2
+wire66
+wire65 wire67 
+End
+Connections2
+wire67
+wire66 
+End
+Connections2
+wire68
+wire69 
+End
+Connections2
+wire69
+wire68 wire70 
+End
+Connections2
+wire70
+wire69 wire71 
+End
+Connections2
+wire71
+wire70 wire72 
+End
+Connections2
+wire72
+wire71 
+End
+Connections2
+wire73
+wire74 
+End
+Connections2
+wire74
+wire73 wire75 
+End
+Connections2
+wire75
+wire74 
+End
+Connections2
+wire76
+
+End
+Connections2
+wire77
+
+End
+Connections2
+wire78
+
+End
+Connections2
+wire79
+
+End
+Connections2
+wire80
+
+End
+Connections2
+wire81
+
+End
+Connections2
+wire82
+wire48 
+End
+Connections2
+wire83
+wire48 
+End
+Connections2
+wire84
+wire48 
+End
+Connections2
+wire85
+wire48 
+End
+Connections2
+wire86
+wire48 
+End
+Connections2
+wire87
+wire48 
+End
+Connections2
+wire88
+wire23 wire89 
+End
+Connections2
+wire89
+wire88 wire90 wire94 
+End
+Connections2
+wire90
+wire89 
+End
+Connections2
+wire91
+wire24 wire92 
+End
+Connections2
+wire92
+wire91 wire93 wire95 
+End
+Connections2
+wire93
+wire92 
+End
+Connections2
+wire94
+wire89 
+End
+Connections2
+wire95
+wire92 
+End
+Connections2
+wire96
+wire25 wire97 
+End
+Connections2
+wire97
+wire96 wire98 wire99 
+End
+Connections2
+wire98
+wire97 
+End
+Connections2
+wire99
+wire97 
+End
+Connections2
+wire100
+wire101 
+End
+Connections2
+wire101
+wire100 wire102 
+End
+Connections2
+wire102
+wire101 
+End
+Connections2
+wire103
+wire104 
+End
+Connections2
+wire104
+wire103 wire105 
+End
+Connections2
+wire105
+wire104 
+End
+Connections2
+wire106
+
+End
+Connections2
+wire107
+
+End
+Connections2
+wire108
+wire109 
+End
+Connections2
+wire109
+wire108 wire110 
+End
+Connections2
+wire110
+wire109 
+End
+Connections2
+wire111
+wire112 
+End
+Connections2
+wire112
+wire111 wire113 
+End
+Connections2
+wire113
+wire112 
+End
+Connections2
+wire114
+
+End
+Connections2
+wire115
+
+End
+Connections2
+wire116
+wire117 
+End
+Connections2
+wire117
+wire116 wire118 
+End
+Connections2
+wire118
+wire117 
+End
