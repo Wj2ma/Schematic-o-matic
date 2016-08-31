@@ -2,7 +2,7 @@
 
 - Top left power switches are the bits you want to save into memory (top switch corresponds to top LED, and bottom switch corresponds to bottom LED)
 - The other two power switches are the memory slots. Only 01, 10, and 11 are hooked up to a memory location, so 00 will not have anything.
-- The main switch in the bottom middle of the circuit is used for read/write. On means read, and off means write.
+- The main switch in the bottom middle of the circuit is used for read/write. "ON" means read, and "OFF" means write.
 
 ### How to write into memory
 
